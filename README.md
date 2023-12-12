@@ -1,6 +1,6 @@
 # PlinkoBoard
 
-This project is meant to simulate running trials through a "plinko board" to find the probability of a given result.
+This project is meant to simulate running trials through a "plinko board" to find the probability of a given result using MATLAB.
 
 
 A plinko board is explained on this website:   https://priceisright.fandom.com/wiki/Plinko
